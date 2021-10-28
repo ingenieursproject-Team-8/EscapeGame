@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StartRoom
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StartRoom\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=escapeGame
+comment1.target=StartRoom(EscapeGame)
+numComments=2

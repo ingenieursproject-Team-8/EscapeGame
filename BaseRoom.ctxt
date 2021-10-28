@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BaseRoom
+comment0.text=\r\n\ beschrijft\ basiseigenschappen\ van\ al\ de\ mappen\r\n\ \r\n\ Groep\ 8\ \r\n\ versie\ 28/10/2021\r\n
+comment1.params=escapeGame
+comment1.target=BaseRoom(EscapeGame)
+comment1.text=\r\n\ \ \ \ protected\ is\ een\ functie\ tussen\ public\ en\ private\ zodat\ andere\ actoren\r\n\ \ \ \ bepaalde\ dingen\ kunnen\ opvragen\ maar\ niet\ alles\r\n\ \ \ \ prof\ zei\ om\ dit\ gewoon\ zonder\ teveel\ denken\ over\ te\ nemen\r\n
+comment2.params=
+comment2.target=void\ NextRoom()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Room2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Room2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=escapeGame
+comment1.target=Room2(EscapeGame)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Room2.\r\n\ \r\n
+numComments=2

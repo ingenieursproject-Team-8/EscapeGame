@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EscapeGame
+comment1.params=
+comment1.target=EscapeGame()
+comment2.params=room
+comment2.target=void\ SetRoom(BaseRoom)
+comment3.params=
+comment3.target=void\ NextRoom()
+numComments=4
